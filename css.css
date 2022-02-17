@@ -42,7 +42,7 @@ transition: .5s ;
 }
 
 .slid.active{
-    flex: 11;
+    flex: 10;
     transition: .3s ease-in;
 
 }
